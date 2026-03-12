@@ -93,32 +93,6 @@ if attempt==0:
     print('The word was', word)
     print('Better luck next time')
 
-#hangman figure
-
-        #   o
-        #  /|\
-        #  /\
-           
-# Printing statement for interaction
-# List of animals
-# Choose Random animal name for guessing from list
-# Store already_guessed letter in a set
-# Create a hangman stages
-# Write underscores _ 
-# displayed_word = ''.join([letter if letter in guessed_letter else "_" for letter in word])
-# Print underscores thing
-# Start a while loop
-# Print hangman stages
-# Ask from the user to guess a letter
-# Create error messages
-# Create error for already attempt for already guessed letter
-# whatever user guess, store everything in the guessed_letter
-# Create a if condition right, write a good guess
-#  if condition is wrong, write wrong guess
-# Update underscores thing
-# Show the attempts left
-# If user guessed full word, then write congratulations
-# Outside of the loop, if the attempt becomes 0, user lost the game
 
 
 
